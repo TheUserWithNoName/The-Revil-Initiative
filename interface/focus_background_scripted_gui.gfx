@@ -1,0 +1,6 @@
+﻿spritetypes = {
+	spriteType = {
+		name = "GFX_space_focus_background"
+		texturefile = "gfx/interface/focus_background/background.dds"
+	}
+}
